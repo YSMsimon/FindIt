@@ -38,7 +38,7 @@ FindIt is an iOS app that combines real-time object recognition, voice interacti
 1. Clone this repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/YSMsimon/FindIt.git
    cd MyProject
    ```
 
